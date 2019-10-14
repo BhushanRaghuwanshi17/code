@@ -1,0 +1,66 @@
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll.config
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.pdb
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.pdb
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.xml
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\bin\hi\ViewResources.resources.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.csprojResolveAssemblyReference.cache
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.dll
+C:\Users\Shailendra Chauhan\Desktop\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.pdb
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll.config
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.pdb
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.pdb
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.xml
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\bin\hi\ViewResources.resources.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.csprojResolveAssemblyReference.cache
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.dll
+C:\Training\Asp.Net MVC Training\Asp.Net MVC\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.pdb
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll.config
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\MVC-Internationalization.pdb
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\ViewResources.pdb
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Razor.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Webpages.Razor.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Helpers.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\System.Web.Mvc.xml
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\bin\hi\ViewResources.resources.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.csprojAssemblyReference.cache
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.csproj.CoreCompileInputs.cache
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.csproj.CopyComplete
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.dll
+C:\Users\sipl7\Downloads\New folder\MVC-Internationalization\MVC-Internationalization\obj\Debug\MVC-Internationalization.pdb
